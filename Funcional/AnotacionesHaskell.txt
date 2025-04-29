@@ -1,0 +1,25 @@
+Anotaciones y aclaraciones sobre el lenguaje Haskell obtenidas en base a la practica: 
+
+Comandos básicos para debugging: 
+
+•	:t Imprime el tipo de variable (función) que estes usando.
+•	:h Me muestra los comandos que puedo usar en Haskell
+•	:q Sale de la terminal 
+•	:hs archivo de Haskell 
+•	:l busco el archivo donde voy a guardar lo que estoy compilando
+•	:r carga el archivo que estoy usando
+•	-- comentarios 
+•	:: condiciono mi función.
+
+Para compilar: 
+
+•	utilizo gitbash, no powershell.
+•	dentro del archivo, copio en la terminal: ghci. 
+•	tambien puedo usar stack ghci.
+•	:l archivo.hs para cargar el archivo a compilar.
+•	
+
+
+
+
+
