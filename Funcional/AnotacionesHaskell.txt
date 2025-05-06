@@ -17,7 +17,8 @@ Para compilar:
 •	dentro del archivo, copio en la terminal: ghci. 
 •	tambien puedo usar stack ghci.
 •	:l archivo.hs para cargar el archivo a compilar.
-•	
+•	Comentarios : -- para una sola línea, {- -} para varias líneas.
+
 
 
 
